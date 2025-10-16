@@ -11,17 +11,17 @@ Compare urban vs rural inflation behavior and identify areas of divergence.
 Highlight post-COVID disinflation trends and structural drivers of persistent inflation.
 
 🧩 Dataset: 
-Source: CPI Data (2013–2023), Government of India
-Assumption: “Light and Fuel” category used as a proxy for imported crude oil price trends
-Data Format: Monthly CPI index values for urban, rural, and combined segments
+Source: CPI Data (2013–2023), Government of India.
+Assumption: “Light and Fuel” category used as a proxy for imported crude oil price trends.
+Data Format: Monthly CPI index values for urban, rural, and combined segments.
 
 🧮 Methodology : 
-Data Cleaning & Transformation: Structured CPI indices for monthly analysis
-Month-on-Month (MoM) Inflation: Calculated to track short-term price movement
-Year-on-Year (YoY) Inflation: Captured long-term inflationary trends
+Data Cleaning & Transformation: Structured CPI indices for monthly analysis.
+Month-on-Month (MoM) Inflation: Calculated to track short-term price movement.
+Year-on-Year (YoY) Inflation: Captured long-term inflationary trends.
 Correlation Analysis:
-Used Excel =CORREL() function to measure strength of relationship between crude oil (Light & Fuel index) and other CPI categories
-Visualization: Created line and combo charts in Excel to interpret category-wise trends
+Used Excel =CORREL() function to measure strength of relationship between crude oil (Light & Fuel index) and other CPI categories.
+Visualization: Created line and combo charts in Excel to interpret category-wise trends.
 
 📈 Key Insights : 
 Food Inflation declined sharply post-2021, reflecting easing supply-chain pressures.
@@ -38,9 +38,9 @@ Urban inflation dominated in healthcare and services, while rural areas faced hi
 The correlation framework demonstrates how global shocks translate into household-level price effects.
 
 🧰 Tools & Techniques : 
-Microsoft Excel: Data cleaning, analysis, visualization
-Statistical Functions: =CORREL, =AVERAGE, =STDEV, =PERCENTCHANGE
-Charts Used: Line Graphs, Combo Charts, Correlation Tables
+Microsoft Excel: Data cleaning, analysis, visualization,
+Statistical Functions: =CORREL, =AVERAGE, , =PERCENTCHANGE & etc,
+Charts Used: Line Graphs, Combo Charts, Correlation Tables.
 
 📚 Conclusion : 
 This project highlights the interconnectedness of global crude oil prices and India’s inflation behavior.
@@ -48,6 +48,6 @@ While policy interventions helped contain headline inflation, the structural cos
 The findings underscore the importance of energy price stability in maintaining long-term price control and sustainable growth.
 
 👩‍💻 Author
-Sourav Banerjee
-Data Analyst
+Sourav Banerjee,
+Data Analyst,
 📧 so14banerjeee@gmail.com
